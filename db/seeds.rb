@@ -7,6 +7,8 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 #
 
+User.delete_all
+
 u1 = User.create :email => 'mary@example.com', :password => 'guessit' 
 
 u1.articles.create(title: "Fun book in JavaScript", body: " Dynamic web dev to perform rake, install rake 4.0", location: "USA - Oakland", excerpt: "A very detail approach to JavaScript development.")

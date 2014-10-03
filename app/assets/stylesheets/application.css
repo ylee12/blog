@@ -147,7 +147,7 @@ a:hover {
   height: 20px;
 }
 #main h3 .actions{
-  display:none;
+  /*display:none;*/
   font-weight: normal;
   font-size: 10px;
 }

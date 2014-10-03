@@ -1,3 +1,10 @@
 
+Application URLs
+
+* Create an user account: 
+http://ylee-qa.mtc.ca.gov:3000/users/new
+
+*  
+
 
 http://api.rubyonrails.org/classes/ActiveRecord/FinderMethods.html#method-i-find
